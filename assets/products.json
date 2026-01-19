@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "Smartphone",
+    "image": "assets/products/phone.png",
+    "price": 2999.0,
+    "description": "Écran AMOLED 6.7'', 128 Go stockage, 8 Go RAM, Caméra 108 MP, Batterie 5000 mAh."
+  },
+  {
+    "id": 1,
+    "name": "Ordinateur portable",
+    "image": "assets/products/laptop.png",
+    "price": 8999.0,
+    "description": "Laptop performant pour travail/études, SSD 512 Go, RAM 16 Go, écran Full HD."
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch",
+    "image": "assets/products/watch.png",
+    "price": 999.0,
+    "description": "Montre connectée avec GPS, suivi santé, écran AMOLED, waterproof."
+  }
+]
